@@ -49,7 +49,7 @@ Implementar el circuito de "Interruptor de 3 vías" haciendo uso de la ingenier�
 
 **5)** Colocamos el foco en la boquilla, alimentamos el circuito y verificamos que todo funcione bien.
 
-**PRECAUCIONES*
+**PRECAUCIONES**
 
 * No realizar las conexiones con el circuito alimentado.
 
@@ -57,4 +57,22 @@ Implementar el circuito de "Interruptor de 3 vías" haciendo uso de la ingenier�
 
 * Verificar que las piezas eléctricas se encuentren en buen estado.
 
+**DIAGRAMA ESQUEMÁTICO**
 
+![image](https://user-images.githubusercontent.com/116774235/212918978-1a46ee34-16de-4cb6-8ebb-7facad6c4774.png)
+
+**CIRCUITO FÍSICO ARMADO**
+
+*Circuito Apagado:*
+
+![IMG_20230117_091351_538](https://user-images.githubusercontent.com/116774235/212922483-f3ba23be-cc63-41d6-9eb4-0546b7ff0944.jpg)
+
+*Circuito Encendido:*
+
+![IMG_20230117_091356_901](https://user-images.githubusercontent.com/116774235/212922580-bd4a002e-6caa-43ac-987e-cb84719e5718.jpg)
+
+# **CONCLUSIONES**
+
+* Las conexiones de conmutación permiten conectar dos o más piezas eléctricas para encender o apagar un circuito desde diferentes punto.
+
+* Este circuito llamado "INTERRUPTOR 3 VÍAS" se utiliza mucho en instalaciones eléctricas modernas.
