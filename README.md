@@ -76,3 +76,9 @@ Implementar el circuito de "Interruptor de 3 vías" haciendo uso de la ingenier�
 * Las conexiones de conmutación permiten conectar dos o más piezas eléctricas para encender o apagar un circuito desde diferentes punto.
 
 * Este circuito llamado "INTERRUPTOR 3 VÍAS" se utiliza mucho en instalaciones eléctricas modernas.
+
+# **BIBLIOGRAFÍA**
+
+* https://www.youtube.com/watch?v=mymNGASnpdM&list=LL&index=2
+
+* https://electrica.mx/conexion-adecuada-de-interruptores-de-3-vias/
