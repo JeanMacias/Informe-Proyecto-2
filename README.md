@@ -20,6 +20,7 @@ Implementar el circuito de "Interruptor de 3 vías" haciendo uso de la ingenier�
 
 # **MARCO TEÓRICO**
 
+![image](https://user-images.githubusercontent.com/116774235/212926251-89b944b1-aec1-40ad-8b8e-a6de65574652.png)
 
 # **EXPLICACIÓN**
 
