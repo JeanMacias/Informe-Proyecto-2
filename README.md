@@ -1,1 +1,17 @@
 # Informe-Proyecto-2
+
+INTEGRANTES: JOAN CALDERÓN, JEAN MACIAS
+
+NRC: 10063
+
+# **OBJETIVOS**
+
+**OBJETIVO GENERAL**
+
+Implementar el circuito de "Interruptor de 3 vías" haciendo uso de la ingeniería inversa y usando como apoyo un vídeo acerca de su implementación.
+
+**OBJETIVOS ESPECÍFICOS**
+
+* Hacer una correcta conexión entre los componentes del circuito e identificar la función de cada uno de ellos.
+
+* 
